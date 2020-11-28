@@ -47,7 +47,7 @@
             <p>Gears For Gaming</p>
             <p>Jelajahi dan temukan equipment Gaming paling cocok untukmu dan tingkatkan pengalaman Gamingmu</p>
             <p>Kunjungi Halaman Content untuk fitur yang lebih detail</p>
-            <button href="/auth/produk">GO TO CONTENT</button>
+            <button onclick="location.href='/auth/produk'">GO TO CONTENT</button>
         </div>
     </div>
 </section>

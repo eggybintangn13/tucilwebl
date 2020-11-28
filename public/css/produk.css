@@ -3,16 +3,6 @@ section .bg1 {
     height: 95vh;
     background-image: url("/img/bgcont1.png");
     background-size: cover;
-
-    position: relative;
-}
-
-section .bg2 {
-    width: 100%;
-    height: 95vh;
-    background-image: url("/img/images.jpg");
-    background-size: cover;
-
     position: relative;
 }
 
@@ -52,7 +42,7 @@ section .bg2 {
     line-height: 0px;
 }
 
-.produk1 button {
+.button {
     background-color: #ffffff;
     width: 130px;
     height: 42px;

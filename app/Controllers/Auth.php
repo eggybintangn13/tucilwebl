@@ -23,7 +23,9 @@ class Auth extends BaseController
     }
     public function admin()
     {
+        echo view('layouting/header');
         return view('admin/index');
+        echo view('layouting/footer');
     }
     public function index()
     {

@@ -37,7 +37,7 @@
             <p>LOGITECH G</p>
             <p>G733 WHITE EDITION</p>
             <p>LIGHTSPEED WIRELESS RGB GAMING HEADSET <br>$119.99 - $129.99</p>
-            <button class="hire-btn">SPESIFIKASI</button>
+            <a class="button" href="https://www.logitechg.com/in-id/products/gaming-audio/g733-rgb-wireless-headset.981-000867.html">SPESIFIKASI</a>
         </div>
         <img alt="model1" class="model1" src="/img/item1.png">
     </div>
@@ -46,9 +46,9 @@
     <div class="bg1">
         <div class="produk1">
             <p>LOGITECH G</p>
-            <p>G935 LIGHTSYNC</p>
+            <p>G633S LIGHTSYNC</p>
             <p>WIRELESS 7.1 SURROUND SOUND<br>$169.99</p>
-            <button class="hire-btn">SPESIFIKASI</button>
+            <a class="button" href="https://www.logitechg.com/in-id/products/gaming-audio/g633s-7-1-surround-sound-gaming-headset.981-000752.html">SPESIFIKASI</a>
         </div>
         <img alt="model1" class="model1" src="/img/item2.png">
     </div>
@@ -59,7 +59,7 @@
             <p>LOGITECH G</p>
             <p>G533 WIRELESS</p>
             <p>DTS 7.1 SURROUND GAMING HEADSET<br>$149.99</p>
-            <button class="hire-btn">SPESIFIKASI</button>
+            <a class="button" href="https://www.logitechg.com/in-id/products/gaming-audio/g433-7-1-surround-sound-gaming-headset.981-000670.html">SPESIFIKASI</a>
         </div>
         <img alt="model1" class="model1" src="/img/item3.png">
     </div>

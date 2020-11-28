@@ -21,7 +21,7 @@ $routes->setDefaultController('Home');
 $routes->setDefaultMethod('index');
 $routes->setTranslateURIDashes(false);
 $routes->set404Override();
-$routes->setAutoRoute(false);
+$routes->setAutoRoute(true);
 
 /**
  * --------------------------------------------------------------------
@@ -31,7 +31,7 @@ $routes->setAutoRoute(false);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->match(['get', 'post'], '/auth/login', 'Auth::login');
+$routes->match(['get', 'post'], '/', 'Auth::login');
 $routes->match(['get', 'post'], '/user/index', 'Auth::index');
 $routes->match(['get', 'post'], '/auth/register', 'Auth::register');
 $routes->match(['get', 'post'], '/admin/index', 'Auth::admin');
